@@ -7,10 +7,14 @@ The MatLab function takes these values and utilizes a combination of a repetativ
 
 The Trapezoidal Rule is only utilized if there are an odd number of intervals.
 
+## Code
+
+function [I] = Simpson(x,y)
+
 ## Inputs
+Simpson(x,y)
 * x = [*list of x values with commas between*]
 * y = [*list of y values with commas between*]
-* Simpson(x,y)
 
 ## Outputs
 * I = Estimated integral or the amount the y values ave changed over the span of the x values
