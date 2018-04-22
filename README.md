@@ -1,3 +1,1 @@
 # NumMthodAlgos
-# NumMthodAlgos
-# NumMthodAlgos
