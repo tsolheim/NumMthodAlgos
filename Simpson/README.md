@@ -5,9 +5,9 @@ Simpson's Algorithm takes an input of x and y values that are evenly spaced apar
 The MatLab function takes these values and utilizes a combination of a repetative Simpson's Composite Rule and Trapezoidal Rule given an odd number of intervals in order to estimate the integral of the function.
 
 ## Inputs
-x = [*list of x values with commas between*]
-y = [*list of y values with commas between*]
-Simpson(x,y)
+x = [*list of x values with commas between*];
+y = [*list of y values with commas between*];
+Simpson(x,y);
 
 ## Outputs
 I = estimated integral or the amount the y values ave changed over the span of the x values
