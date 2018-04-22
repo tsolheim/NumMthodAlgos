@@ -6,7 +6,7 @@ The set of functions utilize the MatLab coding software in order to calculate an
 
 ## List of Functions 
 * falsePosition = Estimates the Root of a Function Using a Bracketing Method
-  * falsePosition(xl,xu,es,maxiter)
+  * falsePosition(func,xl,xu,es,maxiter)
 * luFactor      = Creates an Upper, Lower, and Pivoting Matrix for a Square Matrix (A).
   * luFactor(A)
 * Simpson       = Estimates the integral of a set of x and y values using Simpson's Composite and Trapezoidal Methods
