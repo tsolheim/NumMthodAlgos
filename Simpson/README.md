@@ -13,4 +13,4 @@ The Trapezoidal Rule is only utilized if there are an odd number of intervals.
 * Simpson(x,y)
 
 ## Outputs
-I = Estimated integral or the amount the y values ave changed over the span of the x values
+* I = Estimated integral or the amount the y values ave changed over the span of the x values
