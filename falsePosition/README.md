@@ -16,9 +16,17 @@ falsePosition(func,xl,xu,es,maxiter)
 * xl      = lower guess of function
 * xu      = upper guess of function
 * es      = desired relative error (will default to 0.0001%)
+* maxiter = maximum iterations (will default to 200)
 
 ## Outputs
 * root    = the estimated root location
 * fx      = the function value at the root
 * ea      = the approximate relative error (in %)
 * iter    = the number of iterations preformed
+
+## Limitations
+The function must be described before in the command window by typing func = @(x) "*type function here*".
+
+Necessary iterations may exceed reasonable MatLab capabilities.
+
+Is only an estimate of analytical root finding methods.
