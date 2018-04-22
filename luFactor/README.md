@@ -18,3 +18,12 @@ luFactor(A)
 * L = The Lower Triangular Matrix of A
 * U = The Upper Triangular Matrix of A
 * P = The Pivot Matrix of A
+
+## Limitations
+Roundoff error can lead to innacuracies within 4 decimal points.
+
+Must input a square matrix.
+
+Must only put in one matrix.
+
+Is still only an estimate (particularly with long decimals) of analytical LU Factorization methods.
