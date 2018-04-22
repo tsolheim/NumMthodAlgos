@@ -11,6 +11,7 @@ The function is able to find the estimated root location, the function value at 
 function [root,fx,ea,iter] = falsePosition(func,xl,xu,es,maxiter)
 
 ## Inputs
+falsePosition(func,xl,xu,es,maxiter)
 * func    = name of the function
 * xl      = lower guess of function
 * xu      = upper guess of function
