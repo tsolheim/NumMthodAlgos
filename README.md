@@ -5,9 +5,9 @@ This is a set of algorithms that estimate the values of different mathematical p
 The set of functions utilize the MatLab coding software in order to calculate and then display the values and functions.
 
 ## List of Functions 
-* falsePosition = 
+* falsePosition = Estimates the Root of a Function Using a Bracketing Method
   * falsePosition(xl,xu,es,maxiter)
 * luFactor      = Creates an Upper, Lower, and Pivoting Matrix for a Square Matrix (A).
   * luFactor(A)
-* Simpson       = 
+* Simpson       = Estimates the integral of a set of x and y values using Simpson's Composite and Trapezoidal Methods
   * Simpson(x,y)
