@@ -1,1 +1,1 @@
-# NumMthodAlgos
+# Numerical Method Algorithms
