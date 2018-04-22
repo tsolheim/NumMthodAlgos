@@ -18,3 +18,10 @@ Simpson(x,y)
 
 ## Outputs
 * I = Estimated integral or the amount the y values ave changed over the span of the x values
+
+## Limitations
+X values must be evenly spaced.
+
+Does not correlate to 3 dimensions.
+
+Is only an estimate of Analytical Integration.
